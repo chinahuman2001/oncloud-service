@@ -1,0 +1,12 @@
+customer/oncloud_service/util/DBConnection.class
+cds/gen/adminservice/Tododetail.class
+customer/oncloud_service/handlers/AdminService.class
+customer/oncloud_service/util/BPMSocketFactory.class
+customer/oncloud_service/config/WebSecurityConfig.class
+cds/gen/adminservice/Tododetail_.class
+customer/oncloud_service/util/LiferaySocketFactory.class
+cds/gen/adminservice/AdminService_.class
+customer/oncloud_service/controller/BPMController.class
+customer/oncloud_service/Application.class
+customer/oncloud_service/util/Constants.class
+customer/oncloud_service/util/ConnectivitySocks5ProxySocket.class

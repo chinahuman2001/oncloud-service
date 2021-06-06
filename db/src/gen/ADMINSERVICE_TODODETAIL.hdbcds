@@ -1,0 +1,3 @@
+entity ADMINSERVICE_TODODETAIL {
+  key IDCOUNT : String(111);
+};

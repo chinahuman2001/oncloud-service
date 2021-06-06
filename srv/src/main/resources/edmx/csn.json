@@ -1,0 +1,23 @@
+{
+  "definitions": {
+    "AdminService": {
+      "@source": "admin-service.cds",
+      "kind": "service"
+    },
+    "AdminService.Tododetail": {
+      "kind": "entity",
+      "elements": {
+        "IDCount": {
+          "key": true,
+          "type": "cds.String",
+          "length": 111
+        }
+      }
+    }
+  },
+  "$version": "1.0",
+  "meta": {
+    "creator": "CDS Compiler v1.50.4",
+    "flavor": "inferred"
+  }
+}
